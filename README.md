@@ -31,7 +31,7 @@ trends, top-performing products and markets, and customer purchasing behavior.
 ## Key Findings
 
 **Data Quality:**
-Of the original 525,461 transaction records, approximately 24% (124,545 rows) were removed during cleaning — primarily due to missing customer identifiers (~20% of all rows), cancelled orders, and invalid quantity/price entries. This reflects the real-world messiness typical of transactional retail data.
+Of the original 525,461 transaction records, approximately 24% (124,545 rows) were removed during cleaning  primarily due to missing customer identifiers (~20% of all rows), cancelled orders, and invalid quantity/price entries. This reflects the real-world messiness typical of transactional retail data.
 
 **Revenue Trend:**
 Monthly revenue peaked in **November 2010 at £1,166,460**, consistent with pre-holiday wholesale restocking by this retailer's largely business-to-business customer base. December 2010 shows the lowest recorded revenue (£310,656), but this reflects a partial month in the dataset rather than an actual sales decline, since the data cuts off early in December.
@@ -40,7 +40,7 @@ Monthly revenue peaked in **November 2010 at £1,166,460**, consistent with pre-
 The **WHITE HANGING HEART T-LIGHT HOLDER** was the top-selling product by revenue, generating approximately **£151,339**. Top sellers were dominated by home decor and gift/novelty items, reflecting the retailer's core product category.
 
 **Geographic Concentration:**
-Revenue is heavily concentrated in the **United Kingdom (£7,381,644)**, reflecting the retailer's domestic customer base. The next-largest market, **EIRE (Ireland)**, contributed a much smaller £356,042 — roughly 5% of UK revenue — highlighting limited but present international demand, particularly from neighboring European countries.
+Revenue is heavily concentrated in the **United Kingdom (£7,381,644)**, reflecting the retailer's domestic customer base. The next-largest market, **EIRE (Ireland)**, contributed a much smaller £356,042 roughly 5% of UK revenue  highlighting limited but present international demand, particularly from neighboring European countries.
 
 **Customer Segmentation (RFM Analysis):**
 Out of 4,312 unique customers:
@@ -71,7 +71,7 @@ sales month.
 Breaks customers into four segments (Regular, At Risk, High Value, New
 Customer) based on Recency, Frequency, and Monetary value, with an
 interactive slicer and a segment profile table showing the average
-Recency/Frequency/Monetary per segment — validating that the segmentation
+Recency/Frequency/Monetary per segment validating that the segmentation
 behaves as expected (e.g. High Value customers order frequently, spend the
 most, and purchased most recently).
 
