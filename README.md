@@ -58,7 +58,8 @@ segments, covering sales performance and customer segmentation across two
 report pages.
 
 ### Page 1 — Sales Overview
-![Sales Overview Dashboard](dashboard_screenshots/page1_sales_overview.png)
+![Sales Overview Dashboard]<img width="634" height="377" alt="page1_sales_overview" src="https://github.com/user-attachments/assets/ea6df462-7648-45a1-ad0d-587a3907f43e" />
+
 
 Shows overall revenue trends, top products, and geographic breakdown, with
 headline KPIs (total revenue, total orders, total customers) and a callout
@@ -66,7 +67,8 @@ insight: UK accounts for 84% of total revenue, and November is the peak
 sales month.
 
 ### Page 2 — Customer Segmentation (RFM Analysis)
-![Customer Segmentation Dashboard](dashboard_screenshots/page2_customer_segmentation.png)
+![Customer Segmentation Dashboard] <img width="635" height="374" alt="page2_customer_segmentation" src="https://github.com/user-attachments/assets/25e26956-a1a3-46ef-b696-fbd9748ebce5" />
+
 
 Breaks customers into four segments (Regular, At Risk, High Value, New
 Customer) based on Recency, Frequency, and Monetary value, with an
